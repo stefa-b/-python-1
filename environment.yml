@@ -1,4 +1,4 @@
-name: Laba_2.14
+name: Lab_2.14
 channels:
   - defaults
 dependencies:
@@ -74,4 +74,4 @@ dependencies:
     - urllib3==1.26.16
     - werkzeug==2.3.7
     - wrapt==1.15.0
-prefix: C:\Users\Gaming-PC\.conda\envs\Laba_2.14
+
